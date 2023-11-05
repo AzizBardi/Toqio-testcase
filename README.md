@@ -76,11 +76,13 @@ you can find all the report attached to the project in the **bonus_reports** fol
 
 ## Phase 3:
 
-**Question**
+**Question :**
+
 From your point of view and based on your experience, what should a company that wants to reduce the number of bugs in production do?
 Explain at least one improvement strategy
 
-**Response**
+**Response :**
+
 From my experience, to reduce bugs in production, a company can opt for different improvement strategies : 
 
  - **Use automated testing in the continuous integration (CI) pipeline**
@@ -99,9 +101,14 @@ We must have a detailed documentation for codebase, new features, and deployment
  -  **Other Strategies to keep in mind :** 
  
  Using Anit Bot system (like Akaimi)
+ 
  Using Anti DDOS attack (like cloudflare)
+ 
  Using good DNS for better indexation (around the world) 
+ 
  Since toqio.co is created by wordpress, it should be always up-to-date
+ 
  Reduce number of plugins (use the most popular/ up-to-date/ verified plugins)
+ 
  Always hide critical Links (wp-admin is already hidden)
  
